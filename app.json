@@ -1,0 +1,12 @@
+{
+  "name": "buma-component-rating",
+  "displayName": "Buma Component Rating",
+  "expo": {
+    "name": "buma-component-rating",
+    "slug": "buma-component-rating",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

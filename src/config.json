@@ -1,0 +1,7 @@
+{
+    "API_HOST" : "https://component-rating-dot-buma-pdm-image-recognition.et.r.appspot.com",
+    "API_HOST_AUTHENTICATION" : "https://authentication-v2-dot-buma-pdm-image-recognition.et.r.appspot.com",
+    "API_HOST_UPLOAD" : "https://gcsfileuploader-v2-dot-buma-pdm-image-recognition.et.r.appspot.com",
+    "MSAL_AUTHENTICATION" : "https://msal-authentication-dot-buma-pdm-image-recognition.et.r.appspot.com",
+    "MSAL_LOGOUT" : "https://login.microsoftonline.com/common/oauth2/v2.0/logout"
+}
